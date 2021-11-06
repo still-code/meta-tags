@@ -68,7 +68,7 @@ class MetaTag
     {
         $this->image .= "<meta name=\"og:image\" content=\"{$image}\">";
 
-        $this->image .= "<meta name=\"twitter:card\" content=\"summary_large_image\">";
+        $this->image .= '<meta name="twitter:card" content="summary_large_image">';
         $this->image .= "<meta name=\"twitter:image\" content=\"{$image}\">";
 
         return $this;
