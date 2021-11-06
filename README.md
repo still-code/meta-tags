@@ -1,4 +1,4 @@
-<p align="center"><img src="https://banners.beyondco.de/meta%20tags.png?theme=light&packageManager=composer+require&packageName=atm-code-meta-tags&pattern=temple&style=style_1&description=meta+tags+for+laravel&md=0&showWatermark=1&fontSize=100px&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg" width="600"></p>
+<p align="center"><img src="https://banners.beyondco.de/Meta*Tags*.png?theme=light&packageManager=composer+require&packageName=atm-code%2Fmeta-tags&pattern=pianoMan&style=style_1&description=simple+way+to+generate+laravel+HTML+Meta+Tags&md=1&showWatermark=1&fontSize=175px&images=tag&widths=350&heights=350" width="900"></p>
 
 <p align="center">
 <a href="https://packagist.org/packages/atm-code/meta-tags"><img src="https://img.shields.io/packagist/v/atm-code/meta-tags" /></a>
