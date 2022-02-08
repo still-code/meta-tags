@@ -13,6 +13,6 @@ class MetaTag extends Facade
      */
     protected static function getFacadeAccessor()
     {
-        return 'meta-tag';
+        return \MetaTag\MetaTag::class;
     }
 }
